@@ -1,7 +1,7 @@
 ### Node JS Server With Recaptcha
 
 ```sh
-cd backend
+cd server
 Change file name .env.example to .env:
 Edit file .env
 ```
@@ -9,7 +9,7 @@ Edit file .env
 ## Run NodeJS Server
 
 ```sh
-cd backend
+cd server
 npm install
 npm run server
 ```
